@@ -1,4 +1,4 @@
-# live-search-in-php
+# Live Search in PHP using AJAX
 
 Hello coder✌,
 I hope you are doing well.😎
